@@ -1,0 +1,60 @@
+body{
+    background-color: #0369a1 !important;
+    color: #fff !important;
+}
+
+.md{
+    position: relative;
+    top: 50px;
+    width: 75% !important;
+    height: 500px;
+    background: #1b244a;
+}
+
+.home{
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 36px;
+
+    /* identical to box height, or 90% */
+    text-align: center;
+
+    color: #EEEEEE;
+}
+
+.socre_box{
+    width: 50% !important;
+    height: 200px !important;
+    background: #080001;
+}
+
+.score_index{
+    font-family: 'Cursed Timer ULiL';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 90px;
+    line-height: 127px;
+
+    /* or 141% */
+    text-align: center;
+
+    color: #F94F6D;
+
+
+}
+.scoer_updater{
+    width: 80% !important;
+    height: 50px !important;
+}
+
+.btn-outline-primary{
+    width: 25%;
+    height: 100% !important;
+    font-family: 'Cursed Timer ULiL' !important;
+    font-style: normal;
+    font-weight: 700 !important;
+    color: #EEEEEE !important;
+    border: 3px solid #8a9ac6 !important;
+}
